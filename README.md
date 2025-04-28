@@ -8,6 +8,10 @@ https://www.coursera.org/specializations/deep-learning
 
 https://www.bilibili.com/video/BV1daQAYuEYm/?spm_id_from=333.1387.favlist.content.click
 
+可以在这里快速过一遍神经网络基础原理
+
+https://zhuanlan.zhihu.com/p/680222880
+
 pytorch安装
 
 还是推荐在官网previous version那里找到对应版本小于现在cuda版本的pytorch下载，比如我的cuda是12.3
