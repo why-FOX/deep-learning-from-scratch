@@ -23,3 +23,7 @@ CNN架构代码更新
 
 先是基础版的卷积+全连接+池化层，用的是小数据集MNIST，环境已经给出
 之后会有工程版或者是RESNET的代码更新~
+
+先附上双语ResNet论文
+
+https://ar5iv.labs.arxiv.org/html/1512.03385?_immersive_translate_auto_translate=1
