@@ -16,7 +16,7 @@ pytorch安装
 
 还是推荐在官网previous version那里找到对应版本小于现在cuda版本的pytorch下载，比如我的cuda是12.3
 
-# CUDA 12.1
+CUDA 12.1
 conda install pytorch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 pytorch-cuda=12.1 -c pytorch -c nvidia
 
 CNN架构代码更新（cnn_easy.py+MNIST）
@@ -29,6 +29,9 @@ CNN架构代码更新（cnn_easy.py+MNIST）
 https://ar5iv.labs.arxiv.org/html/1512.03385?_immersive_translate_auto_translate=1
 
 https://www.bilibili.com/video/BV1P3411y7nn?spm_id_from=333.788.videopod.sections&vd_source=57b5eb2416b8f7dc96cadd2fbacbb622
+
+反向梯度的核心：链式法则
+
 
 关于全连接层比较好的博客
 
