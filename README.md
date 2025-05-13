@@ -42,3 +42,7 @@ https://blog.csdn.net/weixin_45829462/article/details/106548749
 dropout
 
 https://blog.csdn.net/weixin_42475060/article/details/128862411
+
+vgg可视化
+
+https://dgschwend.github.io/netscope/#/preset/vgg-16
