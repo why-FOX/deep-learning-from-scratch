@@ -46,3 +46,7 @@ https://blog.csdn.net/weixin_42475060/article/details/128862411
 vgg可视化
 
 https://dgschwend.github.io/netscope/#/preset/vgg-16
+
+目标分割UNet
+
+目标检测（定位+分类）yolo v1
