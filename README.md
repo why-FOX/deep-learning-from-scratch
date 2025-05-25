@@ -50,3 +50,7 @@ https://dgschwend.github.io/netscope/#/preset/vgg-16
 目标分割UNet
 
 目标检测（定位+分类）yolo v1
+
+transformer中译版论文
+
+https://arthurchiao.art/blog/attention-is-all-you-need-zh/
