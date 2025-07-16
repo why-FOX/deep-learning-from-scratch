@@ -58,7 +58,18 @@ https://arthurchiao.art/blog/attention-is-all-you-need-zh/
 比较好的transformer博客
 
 http://jalammar.github.io/illustrated-transformer/
+https://www.bilibili.com/video/BV11n3jzAEEi/?spm_id_from=333.788.videopod.episodes&vd_source=57b5eb2416b8f7dc96cadd2fbacbb622&p=8
 
 transformer代码教程
 
 https://nlp.seas.harvard.edu/annotated-transformer/
+
+稀疏卷积+SECOND
+
+https://zhuanlan.zhihu.com/p/501199145
+https://zhuanlan.zhihu.com/p/439879213
+
+内外参转换
+
+https://web.archive.org/web/20220704002218/http://epixea.com/research/multi-view-coding-thesisch2.html
+
