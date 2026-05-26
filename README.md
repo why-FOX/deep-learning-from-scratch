@@ -1,5 +1,7 @@
 # deep-learning-from-scratch
 
+本仓库涵盖了经典基础深度学习工作的实现论文+代码，是作者初接触时的学习路径，也为初学者们整合了一些资料 供大家交流参考
+
 先推荐两门课（吴恩达的深度学习+李沐动手实践深度学习）
 
 https://www.coursera.org/specializations/deep-learning
@@ -22,9 +24,7 @@ CNN架构代码更新（cnn_easy.py+MNIST）
 
 先是基础版的卷积+全连接+池化层，用的是小数据集MNIST，环境已经给出
 
-之后会有工程版或者是RESNET的代码更新~
-
-先附上双语ResNet论文和讲解视频
+附上双语ResNet论文和讲解视频
 
 https://ar5iv.labs.arxiv.org/html/1512.03385?_immersive_translate_auto_translate=1
 
